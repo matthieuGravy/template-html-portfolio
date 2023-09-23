@@ -1,5 +1,6 @@
-This is not a completed portfolio, but rather a foundation with a few animations: HTML, SCSS, JS. It works with Webpack.
-Just follow these steps:
+# pommepatate.be 
+## open source
 
-    Run 'npm i'
-    Run 'npm run start
+<img height="20px" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html" title="html"/> <img height="20px" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="sass" title="sass"/> <img height="20px" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JS" title="JS"/>
+ <img height="20px" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JS" title="JS"/>
+
