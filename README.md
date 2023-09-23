@@ -21,15 +21,7 @@ Explore this HTML/Sass/JS portfolio, a space where creativity comes to life. Wit
 <details>
 <summary> Usage Recommendations 
 </summary>
-
-<h4>Recommended IDE Setup</h4>
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
-
-<h4>Customize configuration</h4> 
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
+  
 ### Project Setup
 
 ```sh
