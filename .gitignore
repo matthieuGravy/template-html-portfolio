@@ -1,0 +1,14 @@
+# Dossiers généralement générés par Node.js et VSCode
+node_modules/
+.vscode/
+
+# Dossiers de build générés par Webpack
+dist/
+build/
+
+# Fichiers de configuration spécifiques à l'utilisateur de VSCode
+.settings.json
+
+# Fichiers de sauvegarde
+*.swp
+*~

@@ -1,0 +1,1 @@
+/*topbar.js fait partie du assets dans le webpack */

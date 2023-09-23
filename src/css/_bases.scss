@@ -1,0 +1,20 @@
+h2 {
+  font-size: 2.5rem;
+  color: white;
+  padding-top: 1rem;
+  padding-left: 1rem;
+  margin-bottom: 1rem;
+  letter-spacing: 0.1rem;
+  span {
+    @extend %colored;
+  }
+}
+
+p,
+li {
+  font-size: 1.5rem;
+  color: gainsboro;
+  padding-left: 1rem;
+
+  letter-spacing: 0.1rem;
+}
