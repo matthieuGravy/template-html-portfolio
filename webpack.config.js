@@ -55,4 +55,8 @@ module.exports = {
     static: path.resolve(__dirname, "./dist"),
     port: 4004,
   },
+  output: {
+    path: path.join(__dirname, "public"),
+    filename: "[name].bundle.js",
+  },
 };
